@@ -1,0 +1,12 @@
+c:\users\kaval\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\kaval\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\kaval\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\kaval\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\kaval\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\kaval\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Install\ОАиП_Сергей_Кибзюк_КП\CalcIntegral\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Install\ОАиП_Сергей_Кибзюк_КП\CalcIntegral\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Install\ОАиП_Сергей_Кибзюк_КП\CalcIntegral\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\Install\ОАиП_Сергей_Кибзюк_КП\CalcIntegral\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Install\ОАиП_Сергей_Кибзюк_КП\CalcIntegral\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Install\ОАиП_Сергей_Кибзюк_КП\CalcIntegral\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
